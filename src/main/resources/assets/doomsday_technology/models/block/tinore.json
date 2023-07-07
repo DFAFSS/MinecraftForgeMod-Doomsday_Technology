@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "doomsday_technology:block/tin_ore",
+    "particle": "doomsday_technology:block/tin_ore"
+  },
+  "render_type": "solid"
+}

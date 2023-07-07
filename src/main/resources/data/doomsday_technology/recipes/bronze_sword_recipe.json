@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "1": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "doomsday_technology:bronze_sword",
+    "count": 1
+  }
+}

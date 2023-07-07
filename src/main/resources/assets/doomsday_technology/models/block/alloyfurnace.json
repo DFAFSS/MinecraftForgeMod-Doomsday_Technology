@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "doomsday_technology:block/top_of_the_machine",
+    "up": "doomsday_technology:block/top_of_the_machine",
+    "north": "doomsday_technology:block/alloy_furnace",
+    "east": "doomsday_technology:block/machine_side",
+    "south": "doomsday_technology:block/machine_side",
+    "west": "doomsday_technology:block/machine_side",
+    "particle": "doomsday_technology:block/top_of_the_machine"
+  },
+  "render_type": "solid"
+}

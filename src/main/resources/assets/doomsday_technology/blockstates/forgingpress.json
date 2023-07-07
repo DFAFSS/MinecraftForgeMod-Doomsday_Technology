@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "doomsday_technology:block/forgingpress"
+    },
+    "facing=east": {
+      "model": "doomsday_technology:block/forgingpress",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "doomsday_technology:block/forgingpress",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "doomsday_technology:block/forgingpress",
+      "y": 270
+    }
+  }
+}

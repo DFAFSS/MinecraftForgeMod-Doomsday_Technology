@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "2": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "3": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "4": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "5": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "6": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "7": {
+      "item": "doomsday_technology:bronzeingots"
+    },
+    "8": {
+      "item": "doomsday_technology:bronzeingots"
+    }
+  },
+  "result": {
+    "item": "doomsday_technology:bronze_armor_chestplate",
+    "count": 1
+  }
+}

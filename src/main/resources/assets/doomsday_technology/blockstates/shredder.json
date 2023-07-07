@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "doomsday_technology:block/shredder"
+    },
+    "facing=east": {
+      "model": "doomsday_technology:block/shredder",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "doomsday_technology:block/shredder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "doomsday_technology:block/shredder",
+      "y": 270
+    }
+  }
+}
